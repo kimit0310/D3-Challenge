@@ -1,3 +1,6 @@
+# Deployed Github Page Link
+https://kimit0310.github.io/D3-Challenge/index.html
+
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
